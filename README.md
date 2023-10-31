@@ -1,14 +1,1 @@
-# Experiment-6---Implementation-of-Semantic-Analysis
-
-## Aim : Construct a python program to read a text from a file.Identify the verbs from the text file and provide synonyms for all verbs using Natutal Language Processing 
-
-## Algorithm:
- -----Type the algorithm here
-
-## Program:
-
-
-
-## Output:
-
-## Result
+![image](https://github.com/Yugendaran/Experiment-6---Implementation-of-Semantic-Analysis/assets/128135616/298ace4a-a18c-48ad-8c41-d397a80d1dca)
