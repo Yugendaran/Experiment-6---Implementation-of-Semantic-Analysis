@@ -1,4 +1,5 @@
-# Experiment-8---Implementation-of-Semantic-Analysis
+# Ex NO 08: Implementation-of-Semantic-Analysis
+## DATE : 01.11.2023
 
 ## Aim : 
 Construct a python program to read a text from a file.Identify the verbs from the text file and provide synonyms for all verbs using Natutal Language Processing
